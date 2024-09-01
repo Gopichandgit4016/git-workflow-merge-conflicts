@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Hellow Git !!!, wtz up?"
+=======
+"Hellow Git !!!, have a great day!!!"
+>>>>>>> fix
